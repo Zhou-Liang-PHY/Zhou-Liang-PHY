@@ -1,16 +1,23 @@
-## Hi there 👋
+# Zhou-Liang-PHY
 
-<!--
-**Zhou-Liang-PHY/Zhou-Liang-PHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the Zhou-Liang-PHY repository!
 
-Here are some ideas to get you started:
+## Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Briefly describe your project here.
+
+## Installation
+
+Instructions on how to install or set up the project.
+
+## Usage
+
+Examples and instructions for using the project.
+
+## Contributing
+
+Guidelines for contributing to the project.
+
+## License
+
+Specify your project's license here.
