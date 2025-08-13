@@ -7,16 +7,23 @@
 ## Education
 
 **Peking University**
+
 *B.S. in Physics, School of Physics, Sep.2022 - Jun. 2026 (Expected)*
-Overall GPA: 3.9/4.0
 
-## Installation
+* Overall GPA: 3.9/4.0
 
-Instructions on how to install or set up the project.
+## Research interests
 
-## Usage
+* Photonic Crystals and Metasurfaces
 
-Examples and instructions for using the project.
+* Atomic, Molecular and Optical Physics
+
+## Research Experience
+
+**Multi-modes spatiotemporal light control via bilayer nonlocal metasurfaces**
+
+*Mentor: Prof. Eric Mazur, Dr. Yuan Liu (School of Engineering and Applied Science, Harvard University)*
+
 
 ## Contributing
 
