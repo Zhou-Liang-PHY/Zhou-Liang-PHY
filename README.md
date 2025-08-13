@@ -2,11 +2,13 @@
 
 📧 Email: hankliang2004@gmail.com 
 
-🌐 Personal website: 
+🌐 Personal website: https://github.com/Zhou-Liang-PHY
 
-## Description
+## Education
 
-Briefly describe your project here.
+**Peking University**
+*B.S. in Physics, School of Physics, Sep.2022 - Jun. 2026 (Expected)*
+Overall GPA: 3.9/4.0
 
 ## Installation
 
