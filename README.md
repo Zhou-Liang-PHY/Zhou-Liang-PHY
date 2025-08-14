@@ -24,11 +24,19 @@
 
 *Mentor: Prof. Eric Mazur, Dr. Yuan Liu (School of Engineering and Applied Science, Harvard University)*
 
+**Amplification of non-classical light field via $\mathrm{N}_2^+$ air-laser system**
 
-## Contributing
+*Mentor： Prof. Zheng Li (School of Physics, Peking University)*
 
-Guidelines for contributing to the project.
+**Conformer-Sensitive Nuclear Dynamics of the Ammonia Dimer Cation Probed by Femtosecond Time-Resolved Coulomb Explosion**
 
-## License
+*Mentor: Prof. Zheng Li (School of Physics, Peking University)*
 
-Specify your project's license here.
+
+## Skills
+
+Programming: Python, C++, Latex
+
+Tools: Matlab, Mathematica, Comsol
+
+## Honors
