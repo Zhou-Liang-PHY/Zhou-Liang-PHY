@@ -56,5 +56,6 @@ Gold Medal, 38th China Physics Olympiad (CPHO)
 ## Extracurricular Activities
 
 ⚽ Captain of School of Physics football team. 2024.2-2025.6
+
 🎹 Piano accompaniment for the School of Physics Chorus  2022.10-2022.12
 
