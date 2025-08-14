@@ -20,15 +20,15 @@
 
 ## Research Experience
 
-**Multi-modes spatiotemporal light control via bilayer nonlocal metasurfaces**
+**Multi-modes spatiotemporal light control via bilayer nonlocal metasurfaces** 2025.7 -- Present
 
 *Mentor: Prof. Eric Mazur, Dr. Yuan Liu (School of Engineering and Applied Science, Harvard University)*
 
-**Amplification of non-classical light field via $\mathrm{N}_2^+$ air-laser system**
+**Amplification of non-classical light field via $\mathrm{N}_2^+$ air-laser system** 2024.5 -- Present
 
 *Mentor： Prof. Zheng Li (School of Physics, Peking University)*
 
-**Conformer-Sensitive Nuclear Dynamics of the Ammonia Dimer Cation Probed by Femtosecond Time-Resolved Coulomb Explosion**
+**Conformer-Sensitive Nuclear Dynamics of the Ammonia Dimer Cation Probed by Femtosecond Time-Resolved Coulomb Explosion** 2024.1 -- 2024.5
 
 *Mentor: Prof. Zheng Li (School of Physics, Peking University)*
 
@@ -43,13 +43,18 @@ English: TOEFL 112, GRE 333, High proficiency in English.
 
 ## Publications
 
-[1] Wang, J., Mi, X., **Liang, Z.**, Dong, B., Deng, Y., Zhang, M., ... & Liu, Y. (2025). Conformer-Sensitive Nuclear Dynamics of the Ammonia Dimer Cation Probed by Femtosecond Time-Resolved Coulomb Explosion. \textit{Journal of the American Chemical Society}. https://pubs.acs.org/doi/abs/10.1021/jacs.4c18084
+[1] Wang, J., Mi, X., **Liang, Z.**, Dong, B., Deng, Y., Zhang, M., ... & Liu, Y. (2025). Conformer-Sensitive Nuclear Dynamics of the Ammonia Dimer Cation Probed by Femtosecond Time-Resolved Coulomb Explosion. *Journal of the American Chemical Society*. https://pubs.acs.org/doi/abs/10.1021/jacs.4c18084
 
-[2] Mi, X., Zhang, M., Zhao, L., **Liang, Z.**, Peng, R., Guo, Z., Bokarev, S. I., & Li, Z. (2025). Non-Resonant Magnetic X-ray Scattering as a Probe of Ultrafast Molecular Spin-State Dynamics: An Ab Initio Theory. \textit{Journal of Chemical Theory and Computation}. https://doi.org/10.1021/acs.jctc.4c01296
+[2] Mi, X., Zhang, M., Zhao, L., **Liang, Z.**, Peng, R., Guo, Z., Bokarev, S. I., & Li, Z. (2025). Non-Resonant Magnetic X-ray Scattering as a Probe of Ultrafast Molecular Spin-State Dynamics: An Ab Initio Theory. *Journal of Chemical Theory and Computation*. https://doi.org/10.1021/acs.jctc.4c01296
 
 ## Honors
 
 National Scholarship (Top 2%)
 
 Gold Medal, 38th China Physics Olympiad (CPHO)
+
+## Extracurricular Activities
+
+⚽ Captain of School of Physics football team. 2024.2-2025.6
+🎹 Piano accompaniment for the School of Physics Chorus  2022.10-2022.12
 
