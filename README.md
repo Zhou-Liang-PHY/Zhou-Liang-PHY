@@ -22,7 +22,7 @@
 
 **Multi-modes spatiotemporal light control via bilayer nonlocal metasurfaces** &nbsp;&nbsp; 2025.7 -- Present
 
-*Mentor: Prof. Eric Mazur, Dr. Yuan Liu (School of Engineering and Applied Science, Harvard University)*
+*Mentor: Prof. Eric Mazur, Dr. Yuan Liu (Harvard John A. Paulson School of Engineering and Applied Sciences)*
 
 **Amplification of non-classical light field via $\mathrm{N}_2^+$ air-laser system** &nbsp;&nbsp; 2024.5 -- Present
 
