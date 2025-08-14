@@ -39,6 +39,14 @@ Programming: Python, C++, Latex
 
 Tools: Matlab, Mathematica, Comsol
 
+English: TOEFL 112, GRE 333, High proficiency in English.
+
+## Publications
+
+[1] Wang, J., Mi, X., **Liang, Z.**, Dong, B., Deng, Y., Zhang, M., ... & Liu, Y. (2025). Conformer-Sensitive Nuclear Dynamics of the Ammonia Dimer Cation Probed by Femtosecond Time-Resolved Coulomb Explosion. \textit{Journal of the American Chemical Society}. https://pubs.acs.org/doi/abs/10.1021/jacs.4c18084
+
+[2] Mi, X., Zhang, M., Zhao, L., **Liang, Z.**, Peng, R., Guo, Z., Bokarev, S. I., & Li, Z. (2025). Non-Resonant Magnetic X-ray Scattering as a Probe of Ultrafast Molecular Spin-State Dynamics: An Ab Initio Theory. \textit{Journal of Chemical Theory and Computation}. https://doi.org/10.1021/acs.jctc.4c01296
+
 ## Honors
 
 National Scholarship (Top 2%)
