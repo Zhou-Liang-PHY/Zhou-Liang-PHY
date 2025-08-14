@@ -20,15 +20,15 @@
 
 ## Research Experience
 
-**Multi-modes spatiotemporal light control via bilayer nonlocal metasurfaces** 2025.7 -- Present
+**Multi-modes spatiotemporal light control via bilayer nonlocal metasurfaces** &nbsp;&nbsp; 2025.7 -- Present
 
 *Mentor: Prof. Eric Mazur, Dr. Yuan Liu (School of Engineering and Applied Science, Harvard University)*
 
-**Amplification of non-classical light field via $\mathrm{N}_2^+$ air-laser system** 2024.5 -- Present
+**Amplification of non-classical light field via $\mathrm{N}_2^+$ air-laser system** &nbsp;&nbsp; 2024.5 -- Present
 
 *Mentor： Prof. Zheng Li (School of Physics, Peking University)*
 
-**Conformer-Sensitive Nuclear Dynamics of the Ammonia Dimer Cation Probed by Femtosecond Time-Resolved Coulomb Explosion** 2024.1 -- 2024.5
+**Conformer-Sensitive Nuclear Dynamics of the Ammonia Dimer Cation Probed by Femtosecond Time-Resolved Coulomb Explosion** &nbsp;&nbsp; 2024.1 -- 2024.5
 
 *Mentor: Prof. Zheng Li (School of Physics, Peking University)*
 
