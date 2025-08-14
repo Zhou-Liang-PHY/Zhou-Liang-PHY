@@ -40,3 +40,8 @@ Programming: Python, C++, Latex
 Tools: Matlab, Mathematica, Comsol
 
 ## Honors
+
+National Scholarship (Top 2%)
+
+Gold Medal, 38th China Physics Olympiad (CPHO)
+
