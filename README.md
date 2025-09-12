@@ -14,9 +14,8 @@
 
 ## Research interests
 
-* Photonic Crystals and Metasurfaces
-
-* Atomic, Molecular and Optical Physics
+* Photonics
+* Atomic, Molecular and Optical (AMO) Physics
 
 ## Research Experience
 
