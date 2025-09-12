@@ -10,7 +10,7 @@
 
 *B.S. in Physics, School of Physics, Sep.2022 - Jun. 2026 (Expected)*
 
-* Overall GPA: 3.9/4.0
+* Overall GPA: 3.9/4.0 (rank 7/260)
 
 ## Research interests
 
