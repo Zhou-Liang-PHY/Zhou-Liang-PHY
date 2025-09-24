@@ -46,6 +46,8 @@ English: TOEFL 112, GRE 333, High proficiency in English.
 
 [2] Mi, X., Zhang, M., Zhao, L., **Liang, Z.**, Peng, R., Guo, Z., Bokarev, S. I., & Li, Z. (2025). Non-Resonant Magnetic X-ray Scattering as a Probe of Ultrafast Molecular Spin-State Dynamics: An Ab Initio Theory. *Journal of Chemical Theory and Computation*. https://doi.org/10.1021/acs.jctc.4c01296
 
+[3] Qiu, S., Guo, S., Song, Z.-Y., Sun, Y., Cai, Z., Wei, J., & Luo, T., et al. (2025). PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models. *Advances in Neural Information Processing Systems (Poster).* https://arxiv.org/abs/2504.16074
+
 ## Honors
 
 **2025 - 2026 National Scholarship (Top 2%)**
