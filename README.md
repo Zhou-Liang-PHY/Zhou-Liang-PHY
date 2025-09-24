@@ -23,7 +23,7 @@
 
 *Mentor: Prof. Eric Mazur, Dr. Yuan Liu (Harvard John A. Paulson School of Engineering and Applied Sciences)*
 
-**Amplification of non-classical light field via $\mathrm{N}_2^+$ air-laser system (manuscript in preparation) ** &nbsp;&nbsp; 2024.5 -- Present
+**Amplification of non-classical light field via $\mathrm{N}_2^+$ air-laser system (manuscript in preparation)** &nbsp;&nbsp; 2024.5 -- Present
 
 *Mentor： Prof. Zheng Li (School of Physics, Peking University)*
 
@@ -34,9 +34,9 @@
 
 ## Skills
 
-Programming: Python, C++, LaTeX
+💻 Programming: Python, C++, LaTeX
 
-Tools: Matlab, Mathematica, Comsol
+🔧Tools: Matlab, Mathematica, Comsol
 
 English: TOEFL 112, GRE 333, High proficiency in English.
 
@@ -48,9 +48,9 @@ English: TOEFL 112, GRE 333, High proficiency in English.
 
 ## Honors
 
-2025 - 2026 National Scholarship (Top 2%)
+**2025 - 2026 National Scholarship (Top 2%)**
 
-2024 - 2025 National Scholarship (Top 2%)
+**2024 - 2025 National Scholarship (Top 2%)**
 
 Gold Medal, 38th China Physics Olympiad (CPHO)
 
